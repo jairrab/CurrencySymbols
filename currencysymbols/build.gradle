@@ -4,8 +4,8 @@ plugins {
     id 'com.github.dcendents.android-maven'
 }
 
-group = 'com.github.jairrab'
-version = '1.0'
+group = 'com.github.jairrab.currencysymbols'
+version = '1.2.0'
 
 android {
     compileSdkVersion 29
