@@ -1,4 +1,4 @@
-package com.jairrab.github.currencysymbols
+package com.github.jairrab.currencysymbols
 
 import android.icu.util.Currency
 import java.util.HashMap
