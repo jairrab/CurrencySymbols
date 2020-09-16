@@ -19,7 +19,7 @@ object CurrencySymbols {
         }
     }
 
-    private val hashMap = object : HashMap<String?, String?>() {
+    private val hashMap:Map<String, String> = object : HashMap<String, String>() {
         init {
             put("AED", "DH")
             put("ALL", "Lek")
