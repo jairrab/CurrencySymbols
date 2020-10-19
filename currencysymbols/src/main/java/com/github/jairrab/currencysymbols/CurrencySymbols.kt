@@ -129,6 +129,7 @@ object CurrencySymbols {
             put("VEF", "Bs")
             put("VND", "₫")
             put("XCD", "$")
+            put("XPF", "F")
             put("YER", "﷼")
             put("ZAR", "R")
             put("ZWD", "Z$")
